@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Primary">#EFD2BC</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <!-- Background colors -->
+    <color name="background_main">#FFF5F0</color>
+    <color name="background_shape_target">#FFF0E6</color>
+    <color name="stroke_shape_target">#FFDDCC</color>
+
+    <!-- Shape colors -->
+    <color name="shape_triangle">#FFCC00</color>
+    <color name="shape_hexagon">#9C27B0</color>
+    <color name="shape_circle">#FF5252</color>
+    <color name="shape_rectangle">#2196F3</color>
+    <color name="shape_square">#4CAF50</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#333333</color>
+    <color name="text_secondary">#999999</color>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">kidszee</string>
+
+    <string name="rainbow_poem">Little drops of water,\nLittle rays of light,\nMake the rainbow pretty,\nShining oh so bright.\nRed and orange and yellow,\nGreen and blue and too,\nPurple ends the rainbow,\nWith its special hue.</string>
+    <string name="garden_poem">I dug a little garden,\nAnd planted seeds so small,\nI watered them and watched them,\nUntil they grew so tall.\nFirst came tiny green shoots,\nThen leaves and buds so neat,\nNow flowers bloom in colors bright,\nMaking my garden complete!</string>
+    <string name="stars_poem">Twinkle, twinkle, little star,\nHow I wonder what you are.\nUp above the world so high,\nLike a diamond in the sky.\nWhen the blazing sun is gone,\nWhen he nothing shines upon,\nThen you show your little light,\nTwinkle, twinkle, all the night.</string>
+
+</resources>
