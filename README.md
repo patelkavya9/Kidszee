@@ -1,25 +1,49 @@
-📱 Kidszee – Kids Learning Android Application
-📌 Overview
+Kidszee – Kids Learning Android Application
+This project is an Android-based educational application designed to help children learn basic concepts such as alphabets, numbers, colors, shapes, and poems through an interactive and simple interface. The application focuses on providing a structured and user-friendly learning experience for young users.
 
-Kidszee is an educational Android application designed to help children learn basic concepts such as alphabets, numbers, colors, shapes, and poems in an interactive and engaging way.
+Prerequisites
+Android Studio
+Java (JDK 8 or above)
+Android SDK
 
-The app focuses on providing a simple, intuitive, and visually appealing learning experience for young users through structured content and easy navigation.
+Setup Instructions
+Clone the repository:
+git clone <your-repo-link>
 
-🎯 Features
-🔤 Learn Alphabets (A–Z)
-🔢 Learn Numbers
-🎨 Colors & Shapes Recognition
-📖 Poems / Rhymes Section
-🔊 Audio-based learning for better understanding
-📱 Simple and child-friendly user interface
-🔄 Easy navigation between different learning modules
-🛠️ Tech Stack
-Language: Java
-IDE: Android Studio
-UI Design: XML Layouts
-Tools Used: Android SDK
-👩‍💻 My Contribution
-Designed and structured the user interface (UI) for the application
-Organized the navigation flow between learning modules
-Worked on improving usability and layout structure for better user experience
-Contributed to building a simple and intuitive design suitable for children
+Open the project in Android Studio
+
+Sync Gradle files
+
+Run the application on an emulator or physical Android device
+
+Project Structure
+app/
+java/
+res/
+layout/
+drawable/
+values/
+AndroidManifest.xml
+
+Features
+Alphabet learning module
+Number learning module
+Colors and shapes recognition
+Poems and audio-based learning
+Simple and intuitive navigation
+Child-friendly user interface
+
+Technologies Used
+Java
+Android Studio
+XML (UI Design)
+Android SDK
+
+Contribution
+Designed and structured the user interface of the application
+Worked on organizing navigation flow between different learning modules
+Focused on improving usability and layout for better user experience
+
+Notes
+This project was developed as part of an academic group project
+The application focuses on UI design and basic functionality for educational purposes
